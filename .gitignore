@@ -1,5 +1,6 @@
 .gradle
 /build/
+/src/main/resources/token.txt
 
 # Ignore Gradle GUI config
 gradle-app.setting

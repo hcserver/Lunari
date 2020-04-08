@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7386ea8e-0446-4739-b086-e97e62a43e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/Command/IsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/Command/Ping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/Command/Pong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/CommandHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/Event/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/EventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/GetToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lunari/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/token.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/Command/IsCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/Command/Ping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/Command/Pong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/CommandHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/Event/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/EventHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/GetToken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/luna/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +112,7 @@
       <workItem from="1586354863048" duration="2177000" />
       <workItem from="1586357106194" duration="796000" />
       <workItem from="1586358040300" duration="98000" />
-      <workItem from="1586358368970" duration="195000" />
+      <workItem from="1586358368970" duration="260000" />
     </task>
     <servers />
   </component>
