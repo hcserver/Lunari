@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7386ea8e-0446-4739-b086-e97e62a43e0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lunari/Command/Pong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lunari/Command/Pong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +48,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="luna.Main" />
-      <module name="HCLocker.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="luna.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lunari.Main" />
       <module name="HCLocker.main" />
       <extension name="coverage">
@@ -75,23 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hclocker.Main" />
-      <module name="HCLocker.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hclocker.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -112,7 +84,7 @@
       <workItem from="1586354863048" duration="2177000" />
       <workItem from="1586357106194" duration="796000" />
       <workItem from="1586358040300" duration="98000" />
-      <workItem from="1586358368970" duration="372000" />
+      <workItem from="1586358368970" duration="704000" />
     </task>
     <servers />
   </component>
@@ -126,22 +98,26 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="661" height="182" key="GridCell.Tab.0.bottom" timestamp="1586358822268">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586358920367">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586358822268" />
-    <state width="661" height="182" key="GridCell.Tab.0.center" timestamp="1586358822267">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586358920367" />
+    <state width="661" height="182" key="GridCell.Tab.0.bottom" timestamp="1586359076264">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586358822267" />
-    <state width="661" height="182" key="GridCell.Tab.0.left" timestamp="1586358822267">
+    <state width="661" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586359076264" />
+    <state width="661" height="182" key="GridCell.Tab.0.center" timestamp="1586359076263">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586358822267" />
-    <state width="661" height="182" key="GridCell.Tab.0.right" timestamp="1586358822267">
+    <state width="661" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586359076263" />
+    <state width="661" height="182" key="GridCell.Tab.0.left" timestamp="1586359076263">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586358822267" />
+    <state width="661" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586359076263" />
+    <state width="661" height="182" key="GridCell.Tab.0.right" timestamp="1586359076263">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586359076263" />
     <state x="184" y="12" key="SettingsEditor" timestamp="1586358080778">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
