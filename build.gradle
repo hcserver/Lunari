@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'org.hcserver.hclocker'
+version '0.1'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.javacord:javacord:3.0.5'
+}
