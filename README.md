@@ -1,2 +1,2 @@
-# Lunaw
- Public discord bot made with java :)
+# Lunaw 1.0.1
+ I dont know what to write here
