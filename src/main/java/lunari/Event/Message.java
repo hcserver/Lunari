@@ -1,4 +1,4 @@
-package luna.Event;
+package lunari.Event;
 
 import org.javacord.api.DiscordApi;
 

@@ -1,4 +1,4 @@
-package luna.Command;
+package lunari.Command;
 
 import org.javacord.api.entity.message.embed.EmbedBuilder;
 import org.javacord.api.event.message.MessageCreateEvent;

@@ -1,10 +1,10 @@
-package luna;
+package lunari;
 
 import org.javacord.api.DiscordApi;
 
 // ===== Commands
-import luna.Command.Ping;
-import luna.Command.Pong;
+import lunari.Command.Ping;
+import lunari.Command.Pong;
 
 
 public class CommandHandler {

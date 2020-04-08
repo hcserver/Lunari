@@ -1,4 +1,4 @@
-package luna.Command;
+package lunari.Command;
 
 public class IsCommand {
     public static boolean Check(String messageContent, String command) {
