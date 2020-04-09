@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7386ea8e-0446-4739-b086-e97e62a43e0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/Ping.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/Ping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/CommandHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/lunari/CommandHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lunari/Command/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lunari/Command/Help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lunari/Command/Ping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lunari/Command/Ping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lunari/CommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lunari/CommandHandler.java" afterDir="false" />
-    </list>
+    <list default="true" id="7386ea8e-0446-4739-b086-e97e62a43e0e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +88,7 @@
       <workItem from="1586357106194" duration="796000" />
       <workItem from="1586358040300" duration="98000" />
       <workItem from="1586358368970" duration="921000" />
-      <workItem from="1586428370719" duration="3950000" />
+      <workItem from="1586428370719" duration="3968000" />
     </task>
     <servers />
   </component>
