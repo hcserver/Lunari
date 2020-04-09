@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7386ea8e-0446-4739-b086-e97e62a43e0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/Help.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/IsCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Command/Ping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/CommandHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Event/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/EventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/GetToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lunari/GetToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lunari/GetToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +91,7 @@
       <workItem from="1586357106194" duration="796000" />
       <workItem from="1586358040300" duration="98000" />
       <workItem from="1586358368970" duration="921000" />
-      <workItem from="1586428370719" duration="1826000" />
+      <workItem from="1586428370719" duration="2277000" />
     </task>
     <servers />
   </component>
