@@ -1,9 +1,6 @@
-#Lunari
-
+# Lunari
 Discord bot made with javacord in gradle, JDK 14
-
-#Setup
-
+# Setup
 First you need to change the location of the token in
 ```
 src/main/java/lunari/GetToken
