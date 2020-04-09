@@ -1,5 +1,6 @@
 package lunari.Command;
 
+import org.javacord.api.DiscordApi;
 import org.javacord.api.entity.message.embed.EmbedBuilder;
 import org.javacord.api.event.message.MessageCreateEvent;
 import java.awt.*;
@@ -7,7 +8,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class Ping {
-    public Ping(MessageCreateEvent event) {
+    public Ping(MessageCreateEvent event, DiscordApi api) {
         String MessageContent = event.getMessageContent().toLowerCase();
         if(IsCommand.Check(MessageContent, "ping")){
             String ip = "162.159.129.233";

@@ -10,8 +10,8 @@ import lunari.Command.Help;
 public class CommandHandler {
     public CommandHandler(DiscordApi api) {
         api.addMessageCreateListener(event -> {
-            new Ping(event);
-            new Help(event);
+            new Ping(event, api);
+            new Help(event, api);
         });
     }
 }
