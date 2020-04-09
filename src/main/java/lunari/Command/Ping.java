@@ -26,8 +26,9 @@ public class Ping {
                     inputLine = in.readLine();
                 }
                 EmbedBuilder embed = new EmbedBuilder();
-                embed.setTitle("How fast is the bot, lower is the better!");
+                embed.setTitle("Connection Strength");
                 embed.setDescription("Speed: "+time);
+                embed.setFooter("TTL = Time To Live");
                 embed.setColor(Color.CYAN);
                 event.getChannel().sendMessage(embed);
             } catch (Exception ex) {
