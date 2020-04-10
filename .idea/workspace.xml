@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7386ea8e-0446-4739-b086-e97e62a43e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HCLocker_main_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lunari/GetToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/lunari/GetToken.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lunari/GetToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lunari/GetToken.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +100,7 @@
       <workItem from="1586358368970" duration="921000" />
       <workItem from="1586428370719" duration="4433000" />
       <workItem from="1586438022774" duration="1081000" />
-      <workItem from="1586531320064" duration="1172000" />
+      <workItem from="1586531320064" duration="2149000" />
     </task>
     <servers />
   </component>
@@ -131,22 +126,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="363" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1586437840317" />
-    <state width="661" height="182" key="GridCell.Tab.0.bottom" timestamp="1586532022290">
+    <state width="661" height="182" key="GridCell.Tab.0.bottom" timestamp="1586533473842">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586532022290" />
-    <state width="661" height="182" key="GridCell.Tab.0.center" timestamp="1586532022290">
+    <state width="661" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586533473842" />
+    <state width="661" height="182" key="GridCell.Tab.0.center" timestamp="1586533473842">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586532022290" />
-    <state width="661" height="182" key="GridCell.Tab.0.left" timestamp="1586532022290">
+    <state width="661" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586533473842" />
+    <state width="661" height="182" key="GridCell.Tab.0.left" timestamp="1586533473842">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586532022290" />
-    <state width="661" height="182" key="GridCell.Tab.0.right" timestamp="1586532022290">
+    <state width="661" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586533473842" />
+    <state width="661" height="182" key="GridCell.Tab.0.right" timestamp="1586533473842">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="661" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586532022290" />
+    <state width="661" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586533473842" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1586531424160">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
