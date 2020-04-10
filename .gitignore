@@ -1,6 +1,7 @@
 .gradle
 /build/resources/main/token.txt
 /src/main/resources/token.txt
+/out/artifacts/HCLocker_main_jar/token.txt
 
 # Ignore Gradle GUI config
 gradle-app.setting
